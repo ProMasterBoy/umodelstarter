@@ -1,0 +1,9 @@
+C:\Users\ProMa\source\repos\umodel\bin\Debug\umodel_start.exe.config
+C:\Users\ProMa\source\repos\umodel\bin\Debug\umodel_start.exe
+C:\Users\ProMa\source\repos\umodel\bin\Debug\umodel_start.pdb
+C:\Users\ProMa\source\repos\umodel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ProMa\source\repos\umodel\obj\Debug\umodel.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\umodel\obj\Debug\umodel.csproj.Fody.CopyLocal.cache
+C:\Users\ProMa\source\repos\umodel\obj\Debug\umodel.csproj.CopyComplete
+C:\Users\ProMa\source\repos\umodel\obj\Debug\umodel_start.exe
+C:\Users\ProMa\source\repos\umodel\obj\Debug\umodel_start.pdb
